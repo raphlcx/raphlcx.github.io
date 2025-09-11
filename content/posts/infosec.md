@@ -1,0 +1,22 @@
++++
+date = '2025-09-12T00:45:02+08:00'
+title = 'What is Information Security?'
++++
+
+Cybersecurity and information security are often used interchangeably. In most discussions, both terms generally mean protecting a digital asset in cyberspace. To understand this better, let’s step back to the roots. The word “security” comes from the Latin securus, meaning freedom from care or anxiety — in other words, peace of mind. That peace of mind comes from knowing something valuable to us is safe. For it to be safe, it must be shielded or protected from harm or loss.
+
+There are many types of security. Airport security, for example, provides peace of mind by ensuring travelers and their belongings are safe from potential threats before boarding. Food security ensures that people have reliable access to safe, nutritious food, giving them peace of mind that their sustenance is protected. Each of these domains evolves with technology — airport security, for instance, has progressed from manual bag checks to sophisticated X-ray scanners and biometric systems.
+
+The “information” domain is no exception. Information has always been valuable ever since humans developed the ability to record and exchange it. Examples are endless: military strategies during wartime, trade secrets, or even a simple coded message carried by a runner. That runner’s safety and route were information security concerns long before computers existed. Over time, the way we manage information has evolved. From human couriers and pigeons to ships, planes, and now computers and global networks, we continuously revolutionize how we store, process, retrieve, and transmit information. And as information technology evolves, so too must information security.
+
+Like any new technology, information technology came with a hype cycle. One of its appeal was obvious: exchanging information digitally reduced the delays of physical letters. Securing this new mode of exchange required fresh thinking. The old term “information security,” once focused on physical means of protecting information, seemed insufficient when information was now moving in a non-physical, virtual, or cyber space. Thus the term “cybersecurity” emerged. But here lies a subtlety: cybersecurity is often confined to digital assets — such as software, systems, and virtual environments. Yet physical assets like servers, hard drives, and data centers still hold information. Protecting them falls outside the narrow scope of cybersecurity but remains firmly within the realm of information security. In this sense, information security is the broader umbrella under which cybersecurity sits.
+
+In professional practice, the line between the two is sometimes drawn differently. Many organizations treat information security as governance, risk, and compliance (GRC) work — setting policies and standards — while cybersecurity is viewed as the technical enforcement of those policies. I propose another viewpoint. The Chief Information Security Officer (CISO) oversees the full domain of information security — all technologies, processes, and people who handle information, whether digital or not. GRC is not a subset of the CISO’s role but a peer function. GRC ensures an organization adheres to regulatory frameworks, while information security compliance is just one part of that. Under the CISO, three functional pillars can be seen.
+
+First, the information security officer, who ensures policies, standards, and guidelines are robust and provide direction for compliance.
+
+Second, the information security analyst, who procures compliance solutions, manages security tooling, and takes action based on analysis of security data.
+
+Third, the information security engineer, who builds or extends technical solutions to meet compliance and security needs. While historically, vendors provided these tools, engineers are increasingly needed to customize, automate, and integrate them — especially when vendor solutions prove too costly or inflexible.
+
+To summarize, information security is about safeguarding what is valuable in the domain of information. It has always existed, evolving alongside the ways humans exchange knowledge. Cybersecurity is a subset, focused on protecting digital assets in cyberspace. But information security is broader, encompassing all means — physical and digital — of ensuring the confidentiality, integrity, and availability of information. Ultimately, it is about peace of mind: knowing that information, one of our most precious assets, is safe.
