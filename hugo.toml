@@ -1,0 +1,5 @@
+baseURL = 'https://cx.cloudclyde.com'
+languageCode = 'en-gb'
+title = 'raphlcx'
+uglyURLs = true
+theme = 'PaperMod'
